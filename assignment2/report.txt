@@ -1,0 +1,19 @@
+Hypothesis 1: Women and children first.
+Based on the survival rates grouped by sex and age group, women show a substantially higher survival rate than men across all age groups. Children, particularly female children, also show higher survival rates compared to adult males. These results support the hypothesis that 'women and children first' influenced survival outcomes.
+
+Hypothesis 2: The wealthy had a higher survival rate.
+Both methods used to approximate wealth—Passenger Class and Fare quantile bins—show that passengers in higher classes and those who paid higher fares had significantly higher survival rates. Therefore, the data supports the hypothesis that wealthier passengers were more likely to survive.
+Hypothesis 2: The wealthy had a higher survival rate.
+
+Method A (Class): Passengers in 1st class showed the highest survival rate, followed by 2nd class, with 3rd class having the lowest rate.
+
+Method B (Fare): Analysis using fare quartiles reveals that passengers who paid higher fares had notably better survival rates compared to those with lower fares.
+
+Both methods confirm that wealth positively correlated with survival likelihood, supporting the hypothesis.
+Hypothesis 2: The wealthy had a higher survival rate.
+
+Method A (Class): Passengers in 1st class showed the highest survival rate, followed by 2nd class, with 3rd class having the lowest rate.
+
+Method B (Fare): Analysis using fare quartiles reveals that passengers who paid higher fares had notably better survival rates compared to those with lower fares.
+
+Both methods confirm that wealth positively correlated with survival likelihood, supporting the hypothesis.
